@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactjs-material-ui-app-001/static/css/main.3196fc3f.chunk.css",
+    "main.js": "/reactjs-material-ui-app-001/static/js/main.8669db62.chunk.js",
+    "main.js.map": "/reactjs-material-ui-app-001/static/js/main.8669db62.chunk.js.map",
+    "runtime-main.js": "/reactjs-material-ui-app-001/static/js/runtime-main.3a87515a.js",
+    "runtime-main.js.map": "/reactjs-material-ui-app-001/static/js/runtime-main.3a87515a.js.map",
+    "static/js/2.ffbe8838.chunk.js": "/reactjs-material-ui-app-001/static/js/2.ffbe8838.chunk.js",
+    "static/js/2.ffbe8838.chunk.js.map": "/reactjs-material-ui-app-001/static/js/2.ffbe8838.chunk.js.map",
+    "index.html": "/reactjs-material-ui-app-001/index.html",
+    "static/css/main.3196fc3f.chunk.css.map": "/reactjs-material-ui-app-001/static/css/main.3196fc3f.chunk.css.map",
+    "static/js/2.ffbe8838.chunk.js.LICENSE.txt": "/reactjs-material-ui-app-001/static/js/2.ffbe8838.chunk.js.LICENSE.txt",
+    "static/media/fontiran.css": "/reactjs-material-ui-app-001/static/media/IRANSansWeb(FaNum)_UltraLight.e9c28ed7.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a87515a.js",
+    "static/js/2.ffbe8838.chunk.js",
+    "static/css/main.3196fc3f.chunk.css",
+    "static/js/main.8669db62.chunk.js"
+  ]
+}
